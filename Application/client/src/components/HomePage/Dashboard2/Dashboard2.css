@@ -1,0 +1,11 @@
+.containerflight{
+    margin-left: 10vw;
+    box-shadow: 1px 1px 1px 1px;
+    border-radius: 8px;
+    
+}
+
+.serchflightinput{
+    margin-left: 4vw;
+    justify-content: space-between;
+}
