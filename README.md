@@ -14,4 +14,5 @@ Functionality which is working are.
 admin login detailsusername: 1password: 1
 Script Node Version: @18.14.04 (Latest)frontend: npm startbackend: npm run dev
 </h2>
-![image](https://user-images.githubusercontent.com/103898041/227001584-0995d214-370c-4fc4-a02c-e772723afdbf.png)
+
+![image](https://user-images.githubusercontent.com/103898041/227001887-df636464-b36b-4b4a-b999-565ffd308562.png)
