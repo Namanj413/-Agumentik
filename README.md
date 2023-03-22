@@ -1,4 +1,4 @@
-# -Agumentik
+# Agumentik
 <h5>
 Functionality which is working are.
 1. Admin can add members after login.
@@ -15,4 +15,4 @@ admin login detailsusername: 1password: 1
 Script Node Version: @18.14.04 (Latest)frontend: npm startbackend: npm run dev
 </h2>
 
-![image](https://user-images.githubusercontent.com/103898041/227001887-df636464-b36b-4b4a-b999-565ffd308562.png)
+![image](https://user-images.githubusercontent.com/103898041/227002058-98520feb-53e2-486e-857f-70195e6d8d56.png)
